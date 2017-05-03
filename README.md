@@ -14,3 +14,5 @@ Hướng dẫn sử dụng GitHub như 1 hosting cho website:
   +Sau khi tạo issues xong, click vào image muốn chọn (sẽ hiện ra 1 trang mới chỉ chứa image đó), copy link trang đó lại
   +Link này có thể sử dụng được, không cần phải chỉnh sửa
   +Có thể thêm nhiều image vào issues, sau đó
+
+-Công cụ nén ảnh: truy cập website: https://kraken.io/web-interface
