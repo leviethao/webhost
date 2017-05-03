@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+	<head>	
+		<style type = "text/css">
+			h1 {
+				color: blue;
+				text-align: center;
+				background-color: yellow;
+			}
+			p{
+				background-color: green;
+			}
+			
+			a:link {
+				color: purple;
+			}
+			a:active {
+				color: pink;
+			}
+			
+			a:visited {
+				color: red;
+			}
+			
+			a:focus { color: green;}
+			
+			i, b { color: orange;}
+		</style>
+	</head>
+	<body>
+		<h1>Quê hương</h1>
+		<p><b>Quê hương</b> là chùm <i>khế ngọt</i></p>
+		<a href = "https://google.com" target = "_blank" title = "vô ngay">link đến google</a> <br/>
+		<img src = "image.png"/><br/>
+		<p id = "demo"></p>
+		<script type = "text/javascript" src = "sum.js"></script>
+		<script type = "text/javascript">
+			document.getElementById("demo").innerHTML = sum(3, 4);
+		</script>
+		
+	</body>
+</html>
